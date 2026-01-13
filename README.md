@@ -15,8 +15,6 @@ A simple command-line task management application that allows users to add, view
 
 ```bash
 git clone https://github.com/yourusername/task-manager.git
-cd task-manager
-python -m pip install -r requirements.txt
 ```
 
 ## Usage
